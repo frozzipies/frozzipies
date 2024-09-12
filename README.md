@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/frozzipies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frozzipies" height="30" width="40" /></a>
 <a href="https://medium.com/@frozzipies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@frozzipies" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/meta4sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meta4sec" height="30" width="40" /></a>
-<a href="https://discord.gg/meta4sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="meta4sec" height="30" width="40" /></a>
+<a href="https://dsc.gg/meta4sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="meta4sec" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
