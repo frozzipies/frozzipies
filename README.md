@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frozzipies</h1>
-<h3 align="center">Security Consultant & Researcher</h3>
+<h3 align="center">Security Researcher</h3>
 
 <p align="left"> <a href="https://twitter.com/frozzipies" target="blank"><img src="https://img.shields.io/twitter/follow/frozzipies?logo=twitter&style=for-the-badge" alt="frozzipies" /></a> </p>
 
