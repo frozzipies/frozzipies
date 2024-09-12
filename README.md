@@ -11,7 +11,7 @@
 
 - 📫 Reach me on frozzipies@gmail.com or Discord @frozzipies
 
-- 📄 Know about my experiences [here]([https://read.cv/frozzipies](https://linkedin.com/in/frozzipies))
+- 📄 Know about my experiences [[here](https://linkedin.com/in/frozzipies)]
 
 - ⚡ Really love Bug Bounty Hunting in my free time
 
