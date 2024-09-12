@@ -7,13 +7,13 @@
 
 - 📝 I regularly actives on Meta4sec Community [https:/dsc.gg/meta4sec](https:/dsc.gg/meta4sec)
 
-- 💬 Ask me about **anything about Security**
+- 💬 Ask me about anything about **Security**
 
-- 📫 Reach me on **frozzipies@gmail.com or Discord @frozzipies**
+- 📫 Reach me on frozzipies@gmail.com or Discord @frozzipies
 
 - 📄 Know about my experiences [https://read.cv/frozzipies](https://read.cv/frozzipies)
 
-- ⚡ **Really love Bug Bounty Hunting in my free time**
+- ⚡ Really love Bug Bounty Hunting in my free time
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
