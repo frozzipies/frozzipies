@@ -15,7 +15,7 @@
 
 - ⚡ Really love Bug Bounty Hunting in my free time
 
-- [here](https://frozzipies.github.io/)
+- [POC](https://frozzipies.github.io/)
 
 - [here](https://11e2-2a09-bac5-3a20-272d-00-3e7-50.ngrok-free.app/poc.html)
 
