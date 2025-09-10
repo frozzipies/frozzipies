@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Redlimit & Meta4sec](https://redlimit.id)
 
-- 📝 I regularly actives on Meta4sec Community [https:/dsc.gg/meta4sec](https:/dsc.gg/meta4sec)
+- 📝 I regularly actives on Meta4sec Community [https:/discord.gg/meta4sec](https:/dsc.gg/meta4sec)
 
 - 💬 Ask me about anything about **Security**
 
