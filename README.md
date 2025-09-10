@@ -9,7 +9,7 @@
 
 - 💬 Ask me about anything about **Security**
 
-- 📫 Reach me on frozzipies@gmail.com or Discord @frozzipies
+- 📫 Reach me on frozzipies@duck.com or Discord @frozzipies
 
 - 📄 Know about my experiences [here](https://linkedin.com/in/frozzipies)
 
