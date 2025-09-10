@@ -15,10 +15,6 @@
 
 - ⚡ Really love Bug Bounty Hunting in my free time
 
-- [POC](https://frozzipies.github.io/)
-
-- [here](https://f165-2a09-bac5-3a24-88c-00-da-cc.ngrok-free.app/poc.html)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/frozzipies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frozzipies" height="30" width="40" /></a>
